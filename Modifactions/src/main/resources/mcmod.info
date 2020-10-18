@@ -1,0 +1,12 @@
+[{
+  "modid": "modifactions",
+  "name": "Modifactions",
+  "description": "A framework for making new, unique, interesting factions utilizing mod items in Minecraft",
+  "version": "0.1",
+  "mcversion": "1.12.2",
+  "logoFile": "",
+  "url": "",
+  "updateJSON": "",
+  "authorList": ["MusicBlox"],
+  "credits": ""
+}]
